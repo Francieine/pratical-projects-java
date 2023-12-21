@@ -1,1 +1,1 @@
-# pratical-projects-java
+# todolist-project-java
