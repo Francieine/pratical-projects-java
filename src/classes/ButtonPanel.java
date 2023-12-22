@@ -33,6 +33,15 @@ public class ButtonPanel extends JPanel{
 		clear = new JButton("Clear completed Tasks");
 		clear.setBorder(emptyBorder);
 		clear.setFont(new Font("Sans-serif",Font.PLAIN, 20));
-		this.add(clear);	}
+		this.add(clear);	
+		
+		
+		}
+	public JButton getAddTask() {
+		return addTask;
+	}
 	
+	public JButton getClear() {
+		return clear;
+	}
 }
