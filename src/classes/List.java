@@ -15,4 +15,5 @@ public class List extends JPanel{
 	this.setBackground(Color.gray);
 	}
 
+	
 }
